@@ -1,0 +1,1 @@
+<template><div class="login"><el-card><h2>IPD研发项目管理系统 V0.1</h2><el-input placeholder="用户名" /><el-input type="password" placeholder="密码" /><el-button type="primary" @click="$router.push('/dashboard')">登录</el-button></el-card></div></template><style scoped>.login{max-width:420px;margin:120px auto}.el-input,.el-button{margin-top:16px;width:100%}</style>
