@@ -1,0 +1,1 @@
+{"name":"ipd-frontend","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"vite","build":"vue-tsc -b && vite build","preview":"vite preview"},"dependencies":{"@vitejs/plugin-vue":"latest","element-plus":"latest","vue":"latest","vue-router":"latest"},"devDependencies":{"typescript":"latest","vite":"latest","vue-tsc":"latest"}}
